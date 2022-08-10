@@ -1,4 +1,4 @@
-# Dissertation## MSc Economics (Econometrics) Dissertation: Code/Data Submission
+## MSc Economics (Econometrics) Dissertation: Code/Data Submission
 
 ## Table of Contents
 * [General Information](#general-information)
