@@ -1,5 +1,10 @@
 ## MSc Economics (Econometrics) Dissertation: Code/Data Submission
 
+## Updated Open Access Disclaimer
+This README file was originally created to accompany the data analysis component of a dissertation submitted by Evan Bennett (Student Exam Number: B149547) in partial fulfillment of the requirements for the Master of Science in Economics (Econometrics) degree, as set by the School of Economics, College of Arts and Sciences, University of Edinburgh, and the Scottish Graduate Programme in Economics (SGPE).
+
+In accordance with the Research Data Management Policies of the University of Edinburgh and SGPE, this repository — containing and describing only publicly available data — has been made publicly accessible. Its purpose is to serve as an exemplar for students enrolled in EDUC-7770 at the University of Pennsylvania Graduate School of Education.
+
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies](#technologies)
@@ -9,7 +14,7 @@
 * [Student Information](#student-information)
 
 ## General Information
-Description: Code, data, logs, and output for the Dissertation of Student Exam Number B149547 in fulfillment of the requirements for the degree of MSc Economics (Econometrics). 
+Description: Code, data, logs, and output for the Dissertation of Student Exam Number B149547 in fulfillment of the requirements for the degree of MSc Economics (Econometrics).
 
 Motivation: This folder contains all of the components of the coded portion of the Dissertation of Student Exam Number B149547.  These components will act as a part of the Dissertation in fulfillment of the requirements for the degree of MSc Economics (Econometrics). 
 
